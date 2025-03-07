@@ -4,6 +4,8 @@
 
 ## How the Challenge is Completed
 
+![Challenge Workflow](./public/image.png)
+
 This challenge is all about solving cryptic riddles using a custom algorithm. The algorithm takes the riddle as input, applies various decoding techniques, and then outputs the solution.
 
 ## Overview
@@ -70,4 +72,5 @@ Hello, this is a secret message!
 
 Verification Result
 Verification successful! User details saved.
+
 ```
